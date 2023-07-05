@@ -1,0 +1,58 @@
+
+body {
+	background-image: url("background.png");
+	background-size: cover;
+	margin:0;
+	padding:10px;
+	font-family: Arial, Helvetica;
+	min-height: 200px;
+	min-width: 300px;
+	
+}
+button {
+	margin-top: 4px;
+	background-color: green;
+	color: white;
+	font-weight: bold;
+	padding: 10px 20px;
+	border:1px solid green;
+	border-radius: 3px;
+}
+
+#new-btn {
+	background-color:white ;
+	color:darkgreen;
+}
+	
+
+input {
+	width:100%;
+	padding:10px;
+	background: #c0e5f9;
+	border: 1px solid green;
+	font-weight: bold;
+}
+
+ul  {
+	list-style: none;
+	padding-left: 0;
+}
+
+li {
+	margin: 4px;
+}
+
+li a {
+	color:#0095ff;
+}
+ 
+li a:hover{
+	 color: #002fa7;
+}
+
+#list {
+	background-color: white ;
+	margin-top: 5px;
+	width: 70%;
+	border: 1px solid blue;
+}
